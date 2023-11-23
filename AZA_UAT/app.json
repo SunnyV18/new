@@ -1,0 +1,82 @@
+{
+  "id": "1fbf7a5f-0709-4fc8-8db8-8ce6c23d8589",
+  "name": "AZA",
+  "publisher": "CCIT",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./CCIT.jpeg",
+  "dependencies": [
+    {
+      "id": "5ecfc871-5d82-43f1-9c54-59685e82318d",
+      "name": "LS Central",
+      "publisher": "LS Retail",
+      "version": "19.4.0.0"
+    },
+    {
+      "id": "c0e0b8bc-4315-446d-a735-b5e0e8b6ac2b",
+      "name": "LS Central IN",
+      "publisher": "LS Retail",
+      "version": "19.4.0.0"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "version": "19.4.35398.35482",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "version": "19.4.35398.35482",
+      "publisher": "Microsoft"
+
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "name": "India TCS",
+      "version": "19.4.35398.35482",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "name": "Tax Engine",
+      "version": "19.4.35398.35482",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "name": "India Reports",
+      "publisher": "Microsoft",
+      "version": "19.4.35398.35482"
+    },
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "publisher": "Microsoft",
+      "name": "QR Generator",
+      "version": "19.4.35398.35482"
+    }     
+    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 99999
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0",
+  
+  "target":"OnPrem"
+}
